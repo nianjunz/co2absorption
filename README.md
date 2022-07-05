@@ -1,1 +1,3 @@
 # co2absorption
+
+Carbon capture and utilization (CCU) is the process of capturing carbon dioxide (CO2) to be recycled for further usage. Carbon capture and utilization may offer a response to the global challenge of significantly reducing greenhouse gas emissions from major stationary (industrial) emitters. CCU differs from carbon capture and storage (CCS) in that CCU does not aim nor result in permanent geological storage of carbon dioxide. Instead, CCU aims to convert the captured carbon dioxide into more valuable substances or products; such as plastics, concrete or biofuel; while retaining the carbon neutrality of the production processes.
